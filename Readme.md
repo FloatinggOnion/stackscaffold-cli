@@ -8,10 +8,10 @@ StackScaffold is a cli-tool for scaffolding full-stack web applications.
 - For now, the supported technologies are React for frontend, and python frameworks for backend (haven't decided which yet).
 
 ##### Usage
-- To get started, run `python main.py init`
+- To get started, run `python main.py`
 - To get help, run `python main.py --help`
 - To get help for a particular command, run `python main.py {function_name} --help`
-- After generating React-Django template, run `docker-compose up --build`
+- After generating template, run `docker-compose up --build`
 
 ##### Running Instructions
 - Clone the repo
